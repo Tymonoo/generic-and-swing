@@ -1,0 +1,1 @@
+Swing training with generic
