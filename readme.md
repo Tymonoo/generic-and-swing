@@ -1,1 +1,1 @@
-Swing training with generic
+Swing with generic
